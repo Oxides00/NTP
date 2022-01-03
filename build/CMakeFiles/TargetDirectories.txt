@@ -1,0 +1,5 @@
+/home/stud2020/0gonet/NTP/Buczek/build/CMakeFiles/rebuild_cache.dir
+/home/stud2020/0gonet/NTP/Buczek/build/CMakeFiles/check.dir
+/home/stud2020/0gonet/NTP/Buczek/build/CMakeFiles/edit_cache.dir
+/home/stud2020/0gonet/NTP/Buczek/build/CMakeFiles/main.dir
+/home/stud2020/0gonet/NTP/Buczek/build/CMakeFiles/run.dir

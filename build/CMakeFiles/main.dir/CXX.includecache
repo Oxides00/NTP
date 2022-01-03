@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stud2020/0gonet/NTP/Buczek/PrintInt.h
+
+/home/stud2020/0gonet/NTP/Buczek/main.cpp
+iostream
+-
+PrintInt.h
+/home/stud2020/0gonet/NTP/Buczek/PrintInt.h
+
